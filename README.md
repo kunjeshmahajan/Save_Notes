@@ -11,4 +11,3 @@ In this project I learnt :
    3. How to use Material UI in our React Projects
    4. How to deploy our react project's through github pages
 
-
